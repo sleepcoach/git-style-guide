@@ -1,4 +1,4 @@
-# Git Style Guide
+# DEPRECATED Git Style Guide, see documentation wiki
 
 ## Branches
 
